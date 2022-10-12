@@ -1,0 +1,21 @@
+
+.lyrical-upload{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  /* align-items: 'center';
+  margin: 'auto';
+  width: 40;
+  justify-content: 'center';
+  flex-direction: 'row'; */
+}
+
+.upload{
+  width: '100%'; 
+  float: 'center'; 
+  padding: '25';
+  justify-content: center;
+
+
+}
